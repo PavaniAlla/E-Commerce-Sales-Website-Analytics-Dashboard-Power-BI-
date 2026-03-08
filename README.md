@@ -5,6 +5,7 @@ The report contains two dashboard pages for better insight analysis.
 
 Project Objective: The objective of this project is to analyze business data and create an interactive dashboard that helps stakeholders make data-driven decisions.
 
+![image alt](https://github.com/PavaniAlla/E-Commerce-Sales-Website-Analytics-Dashboard-Power-BI-/blob/cb62d525f29e81ad524e892e430a6604ee918a34/Screenshot%202026-03-07%20172733.png)
 Skills Demonstrated:
 
 • Data Cleaning and Preparation
